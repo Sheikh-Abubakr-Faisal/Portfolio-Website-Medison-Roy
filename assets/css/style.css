@@ -544,7 +544,7 @@ img {
 /* ========== Project ========== */
 .project {
     padding: 6.25rem 0;
-    background-image: url("/assets/img/background-cta.jpg");
+    background-image: url("assets/img/background-cta.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center 85.1688px;
